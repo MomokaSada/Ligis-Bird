@@ -2,6 +2,10 @@
 
 Minecraft Bedrock Edition 用のリソースパックです。
 
+このテクスチャパックはリギスという人のイメージキャラクターをオウムにしたテクスチャとなります。
+
+リギスくんのXアカウント: https://x.com/freegis718
+
 ![preview](docs/assets/image.png)
 
 ## インストール
