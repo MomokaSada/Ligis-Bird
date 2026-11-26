@@ -1,4 +1,4 @@
-# Ligith-Bird
+﻿# Ligis-Bird
 
 Minecraft Bedrock Edition 用のリソースパックです。
 
@@ -6,7 +6,7 @@ Minecraft Bedrock Edition 用のリソースパックです。
 
 ## インストール
 
-1. [Releases](https://github.com/MomokaSada/Ligith-Bird/releases) から `Ligith-Bird.mcpack` をダウンロード
+1. [Releases](https://github.com/MomokaSada/Ligis-Bird/releases) から `Ligis-Bird.mcpack` をダウンロード
 2. ダブルクリックで Minecraft にインポート
 
 ## 使い方
@@ -17,9 +17,9 @@ Minecraft Bedrock Edition 用のリソースパックです。
 
 ### 有効化
 
-1. `Ligith-Bird.mcpack` をダウンロードする
+1. `Ligis-Bird.mcpack` をダウンロードする
 2. ファイルをダブルクリックし、Minecraft にインポートする
-3. Minecraft を起動し、設定 → グローバルリソース またはワールド設定 → リソースパック から「Ligith-Bird」を有効化する
+3. Minecraft を起動し、設定 → グローバルリソース またはワールド設定 → リソースパック から「Ligis-Bird」を有効化する
 
 ### 効果
 

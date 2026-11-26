@@ -1,4 +1,4 @@
-name: Build and Release mcpack
+﻿name: Build and Release mcpack
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       - name: Build mcpack
         run: |
           cd resource_pack
-          zip -r ../Ligith-Bird.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
+          zip -r ../Ligis-Bird.mcpack . -x "*.DS_Store" -x "*/.DS_Store" -x "Thumbs.db"
 
       - name: Determine release tag
         id: tag
@@ -41,5 +41,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.tag.outputs.name }}
-          files: Ligith-Bird.mcpack
+          files: Ligis-Bird.mcpack
           generate_release_notes: true
