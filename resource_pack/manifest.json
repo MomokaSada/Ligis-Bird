@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Ligith-Bird",
+        "name": "Ligith-Bird",
+        "uuid": "fd11660f-2b66-4125-875b-d900c8d7134b",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Ligith-Bird",
+            "type": "resources",
+            "uuid": "243e7c78-6c74-438a-8ea6-fc80e0951f9c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
